@@ -3,7 +3,7 @@
 #include <stdlib.h>
 int checkFirstChar = 0;
 int usedOption = 0;
-int choosedOption = 0;
+int choosenOption = 0;
 int lowerCaseCounter = 0;
 int upperCaseCounter = 0;
 int numberOfWordMatchesInFile = 0;
